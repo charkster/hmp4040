@@ -1,4 +1,3 @@
-import pyvisa
 import time
 
 class hmp4040_power_supply():
