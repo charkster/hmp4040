@@ -1,6 +1,6 @@
 import time
 
-class hmp4040_power_supply():
+class hmp4040():
 
     def __init__(self, pyvisa_instr):
         self.hmp4040 = pyvisa_instr # this is the pyvisa instrument, rm.open_resource('ASRL6::INSTR')
