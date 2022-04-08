@@ -1,4 +1,6 @@
 # hmp4040
+![picture](https://static.eleshop.nl/mage/media/catalog/product/cache/10/image/800x/040ec09b1e35df139433887a97daa66f/4/4/44.jpg)
+
 Rohde &amp; Schwarz HMP4040 Power Supply Python control
 
 This python class implements a method called get_unique_scpi() which returns a list of scpi commands that are different to the *RST state of the instrument.
